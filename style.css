@@ -1,0 +1,97 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.button-highlight{
+    background-color: green;
+    border-radius: 20px;
+    padding: 5px 20px;
+    color: white;
+}
+.row img{
+    width: 100%;
+}
+#learn-highlight{
+    color: orange;
+    font-size: 12px;
+    font-weight: 500;
+}
+#inline-highlight{
+    color: green;
+}
+.heading-highlight{
+    font-weight: 900;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.paragraph-highlight{
+    color: grey;
+}
+.top-schedule{
+padding-top: 80px;
+padding-right: 70px;
+}
+.card{
+    border: none;
+    
+}
+.image-center{
+    padding-top: 120px;
+    padding-right: 110px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+#online-highlight{
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.designation-highlight{
+    color: grey;
+    font-size: 13px;
+}
+.online-footer{
+    padding-top: 40px;
+}
+.seat-left{
+    padding-left: 70px;
+}
+.footer-box{
+    background-color: black;
+    color: white;
+    height: 350px;
+    padding-top: 40px;
+}
+ul{
+    list-style: none;
+    font-style: none;
+}
+.text-highlight{
+    color:white;
+    font-size: 12px;
+    padding-left: 60px;
+
+}
+
+.head-highlight{
+    background-color: black;
+    border: none;
+    color: white;
+    font-size: 11px;
+    cursor: pointer;
+}
+.head-highlight-heading{
+    background-color: black;
+    border: none;
+    color: white;
+    font-size: 13px;
+    cursor: pointer;
+    font-weight: 800;
+}
+#copyright-highlight{
+    color: gray;
+    font-size: 10px;
+    padding-top: 100px;
+    padding-left: 600px;
+}
+
